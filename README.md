@@ -1,6 +1,6 @@
 # Coding Interview University
 
-## 音乐
+## 巴洛克音乐
 https://www.youtube.com/watch?v=MuxB2zACza0&list=PLOVFy8w4WTq9LmY2l1fRZzmMj5bJ5osTn&index=4
 
 ## Leetcode 难题
