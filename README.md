@@ -1,11 +1,32 @@
 # Coding Interview University
 
+## Leetcode 难题
+
+https://zerotrac.github.io/leetcode_problem_rating/
+
+## 正义学生王主任的建议
+
+> - 30分钟原则
+>   - 一个问题如果30分钟还没想到答案，就别自己想了。去请教别人。
+> - 多去看看大佬的代码
+>   - 站在巨人的肩膀上想问题，解决问题思路会很快。
+> - coding 之前梳理一遍思路
+>   - 想清楚了伪代码再动手。
+
+最优化的解题思路。
+
+## John Washam的 SDE 路线
+
+这是个 Todo-list ，做完一个可以打狗狗。 
+
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
 > as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
 > You probably won't have to study as much as I did. Anyway, everything you need is here.
 >
-> I studied about 8-12 hours a day, for several months. This is my story: [Why I studied full-time for 8 months for a Google interview](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
+> **I studied about 8-12 hours a day, for several months.** This is my story:
+>
+> ​	 [Why I studied full-time for 8 months for a Google interview](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
 >
 > **Please Note:** You won't need to study as much as I did. I wasted a lot of time on things I didn't need to know. More info about that below. I'll help you get there without wasting your precious time.
 >
@@ -18,77 +39,11 @@
 <summary>Translations:</summary>
 
 - [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
-- [Polish](translations/README-pl.md)
-- [繁體中文](translations/README-tw.md)
 - [Japanese (日本語)](translations/README-ja.md)
-- [Russian](translations/README-ru.md)
-- [German](translations/README-de.md)
-- [Bahasa Indonesia](translations/README-id.md)
-- [ខ្មែរ - Khmer](translations/README-kh.md)
-- [Uzbek](translations/README-uz.md)
-- [Bulgarian](translations/README-bg.md)
-- [বাংলা - Bangla](translations/README-bn.md)
 
 </details>
 
-<details>
-<summary>Translations in progress:</summary>
 
-- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
-- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
-- [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
-- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
-- [French](https://github.com/jwasham/coding-interview-university/issues/89)
-- [Українська](https://github.com/jwasham/coding-interview-university/issues/106)
-- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
-- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
-- [Urdu](https://github.com/jwasham/coding-interview-university/issues/519)
-- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
-- [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
-- [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
-- [Persian - Farsi](https://github.com/jwasham/coding-interview-university/issues/186)
-
-</details>
-
-<div align="center">
-	<hr />
-    <p>
-        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
-    </p>
-    <p>
-        <strong>Special thanks to:</strong>
-    </p>
-    <p>
-        <a href="https://oss.capital/">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
-            </div>
-            <div>
-                <sup><strong>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</strong></sup>
-            </div>
-        </a>
-    </p>
-    <br />
-    <p>
-        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
-            </div>
-            <div>
-                <p>
-                    <strong>Dev environments built for the cloud</strong>
-                </p>
-            </div>
-            <div>
-                <sup>Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev environments for all your branches. As a result team members can instantly start coding with fresh dev environments for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.</sup>
-            </div>
-        </a>
-    </p>
-    <hr />
-</div>
 
 ## What is it?
 
@@ -101,11 +56,7 @@ This is my multi-month study plan for becoming a software engineer for a large c
 * Patience
 * Time
 
-Note this is a study plan for **software engineering**, not web development. Large software companies like Google, Amazon, 
-Facebook and Microsoft view software engineering as different from web development. For example, Amazon has 
-Frontend Engineers (FEE) and Software Development Engineers (SDE). These are 2 separate roles and the interviews for 
-them will not be the same, as each has its own competencies. These companies require computer science knowledge for 
-software development/engineering roles.
+Note this is a study plan for **software engineering**, not web development. Large software companies like Google, Amazon, Facebook and Microsoft view software engineering as different from web development. For example, Amazon has Frontend Engineers (FEE) and **Software Development Engineers (SDE).** These are 2 separate roles and the interviews for them will not be the same, as each has its own competencies. These companies require computer science knowledge for software development/engineering roles.
 
 ---
 
@@ -129,51 +80,51 @@ software development/engineering roles.
 
 ### Topics of Study
 
-- [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
-- [Data Structures](#data-structures)
-    - [Arrays](#arrays)
-    - [Linked Lists](#linked-lists)
-    - [Stack](#stack)
-    - [Queue](#queue)
-    - [Hash table](#hash-table)
-- [More Knowledge](#more-knowledge)
-    - [Binary search](#binary-search)
-    - [Bitwise operations](#bitwise-operations)
-- [Trees](#trees)
-    - [Trees - Notes & Background](#trees---notes--background)
-    - [Binary search trees: BSTs](#binary-search-trees-bsts)
-    - [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
-    - balanced search trees (general concept, not details)
-    - traversals: preorder, inorder, postorder, BFS, DFS
-- [Sorting](#sorting)
-    - selection
-    - insertion
-    - heapsort
-    - quicksort
-    - merge sort
-- [Graphs](#graphs)
-    - directed
-    - undirected
-    - adjacency matrix
-    - adjacency list
-    - traversals: BFS, DFS
-- [Even More Knowledge](#even-more-knowledge)
-    - [Recursion](#recursion)
-    - [Dynamic Programming](#dynamic-programming)
-    - [Design Patterns](#design-patterns)
-    - [Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability)
-    - [NP, NP-Complete and Approximation Algorithms](#np-np-complete-and-approximation-algorithms)
-    - [How computers process a program](#how-computers-process-a-program)
-    - [Caches](#caches)
-    - [Processes and Threads](#processes-and-threads)
-    - [Testing](#testing)
-    - [String searching & manipulations](#string-searching--manipulations)
-    - [Tries](#tries)
-    - [Floating Point Numbers](#floating-point-numbers)
-    - [Unicode](#unicode)
-    - [Endianness](#endianness)
-    - [Networking](#networking)
-- [Final Review](#final-review)
+- [ ] [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
+- [ ] [Data Structures](#data-structures)
+    - [ ] [Arrays](#arrays)
+    - [ ] [Linked Lists](#linked-lists)
+    - [ ] [Stack](#stack)
+    - [ ] [Queue](#queue)
+    - [ ] [Hash table](#hash-table)
+- [ ] [More Knowledge](#more-knowledge)
+    - [ ] [Binary search](#binary-search)
+    - [ ] [Bitwise operations](#bitwise-operations)
+- [ ] [Trees](#trees)
+    - [ ] [Trees - Notes & Background](#trees---notes--background)
+    - [ ] [Binary search trees: BSTs](#binary-search-trees-bsts)
+    - [ ] [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
+    - [ ] balanced search trees (general concept, not details)
+    - [ ] traversals: preorder, inorder, postorder, BFS, DFS
+- [ ] [Sorting](#sorting)
+    - [ ] selection
+    - [ ] insertion
+    - [ ] heapsort
+    - [ ] quicksort
+    - [ ] merge sort
+- [ ] [Graphs](#graphs)
+    - [ ] directed
+    - [ ] undirected
+    - [ ] adjacency matrix
+    - [ ] adjacency list
+    - [ ] traversals: BFS, DFS
+- [ ] [Even More Knowledge](#even-more-knowledge)
+    - [ ] [Recursion](#recursion)
+    - [ ] [Dynamic Programming](#dynamic-programming)
+    - [ ] [Design Patterns](#design-patterns)
+    - [ ] [Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability)
+    - [ ] [NP, NP-Complete and Approximation Algorithms](#np-np-complete-and-approximation-algorithms)
+    - [ ] [How computers process a program](#how-computers-process-a-program)
+    - [ ] [Caches](#caches)
+    - [ ] [Processes and Threads](#processes-and-threads)
+    - [ ] [Testing](#testing)
+    - [ ] [String searching & manipulations](#string-searching--manipulations)
+    - [ ] [Tries](#tries)
+    - [ ] [Floating Point Numbers](#floating-point-numbers)
+    - [ ] [Unicode](#unicode)
+    - [ ] [Endianness](#endianness)
+    - [ ] [Networking](#networking)
+- [ ] [Final Review](#final-review)
 
 ### Getting the Job
 
@@ -188,50 +139,50 @@ software development/engineering roles.
 
 ### Optional Extra Topics & Resources
 
-- [Additional Books](#additional-books)
-- [System Design, Scalability, Data Handling](#system-design-scalability-data-handling) (if you have 4+ years experience)
-- [Additional Learning](#additional-learning)
-    - [Compilers](#compilers)
-    - [Emacs and vi(m)](#emacs-and-vim)
-    - [Unix command line tools](#unix-command-line-tools)
-    - [Information theory](#information-theory-videos)
-    - [Parity & Hamming Code](#parity--hamming-code-videos)
-    - [Entropy](#entropy)
-    - [Cryptography](#cryptography)
-    - [Compression](#compression)
-    - [Computer Security](#computer-security)
-    - [Garbage collection](#garbage-collection)
-    - [Parallel Programming](#parallel-programming)
-    - [Messaging, Serialization, and Queueing Systems](#messaging-serialization-and-queueing-systems)
-    - [A*](#a)
-    - [Fast Fourier Transform](#fast-fourier-transform)
-    - [Bloom Filter](#bloom-filter)
-    - [HyperLogLog](#hyperloglog)
-    - [Locality-Sensitive Hashing](#locality-sensitive-hashing)
-    - [van Emde Boas Trees](#van-emde-boas-trees)
-    - [Augmented Data Structures](#augmented-data-structures)
-    - [Balanced search trees](#balanced-search-trees)
-        - AVL trees
-        - Splay trees
-        - Red/black trees
-        - 2-3 search trees
-        - 2-3-4 Trees (aka 2-4 trees)
-        - N-ary (K-ary, M-ary) trees
-        - B-Trees
-    - [k-D Trees](#k-d-trees)
-    - [Skip lists](#skip-lists)
-    - [Network Flows](#network-flows)
-    - [Disjoint Sets & Union Find](#disjoint-sets--union-find)
-    - [Math for Fast Processing](#math-for-fast-processing)
-    - [Treap](#treap)
-    - [Linear Programming](#linear-programming-videos)
-    - [Geometry, Convex hull](#geometry-convex-hull-videos)
-    - [Discrete math](#discrete-math)
-    - [Machine Learning](#machine-learning)
-- [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
-- [Video Series](#video-series)
-- [Computer Science Courses](#computer-science-courses)
-- [Papers](#papers)
+- [ ] [Additional Books](#additional-books)
+- [ ] [System Design, Scalability, Data Handling](#system-design-scalability-data-handling) (if you have 4+ years experience)
+- [ ] [Additional Learning](#additional-learning)
+    - [ ] [Compilers](#compilers)
+    - [ ] [Emacs and vi(m)](#emacs-and-vim)
+    - [ ] [Unix command line tools](#unix-command-line-tools)
+    - [ ] [Information theory](#information-theory-videos)
+    - [ ] [Parity & Hamming Code](#parity--hamming-code-videos)
+    - [ ] [Entropy](#entropy)
+    - [ ] [Cryptography](#cryptography)
+    - [ ] [Compression](#compression)
+    - [ ] [Computer Security](#computer-security)
+    - [ ] [Garbage collection](#garbage-collection)
+    - [ ] [Parallel Programming](#parallel-programming)
+    - [ ] [Messaging, Serialization, and Queueing Systems](#messaging-serialization-and-queueing-systems)
+    - [ ] [A*](#a)
+    - [ ] [Fast Fourier Transform](#fast-fourier-transform)
+    - [ ] [Bloom Filter](#bloom-filter)
+    - [ ] [HyperLogLog](#hyperloglog)
+    - [ ] [Locality-Sensitive Hashing](#locality-sensitive-hashing)
+    - [ ] [van Emde Boas Trees](#van-emde-boas-trees)
+    - [ ] [Augmented Data Structures](#augmented-data-structures)
+    - [ ] [Balanced search trees](#balanced-search-trees)
+        - [ ] AVL trees
+        - [ ] Splay trees
+        - [ ] Red/black trees
+        - [ ] 2-3 search trees
+        - [ ] 2-3-4 Trees (aka 2-4 trees)
+        - [ ] N-ary (K-ary, M-ary) trees
+        - [ ] B-Trees
+    - [ ] [k-D Trees](#k-d-trees)
+    - [ ] [Skip lists](#skip-lists)
+    - [ ] [Network Flows](#network-flows)
+    - [ ] [Disjoint Sets & Union Find](#disjoint-sets--union-find)
+    - [ ] [Math for Fast Processing](#math-for-fast-processing)
+    - [ ] [Treap](#treap)
+    - [ ] [Linear Programming](#linear-programming-videos)
+    - [ ] [Geometry, Convex hull](#geometry-convex-hull-videos)
+    - [ ] [Discrete math](#discrete-math)
+    - [ ] [Machine Learning](#machine-learning)
+- [ ] [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
+- [ ] [Video Series](#video-series)
+- [ ] [Computer Science Courses](#computer-science-courses)
+- [ ] [Papers](#papers)
 
 ---
 
@@ -399,20 +350,20 @@ but I bought more to give myself more practice. But I always do too much.
 
 I bought both of these. They gave me plenty of practice.
 
-- [Programming Interviews Exposed: Coding Your Way Through the Interview, 4th Edition](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview/dp/111941847X/)
-    - Answers in C++ and Java
-    - This is a good warm-up for Cracking the Coding Interview
-    - Not too difficult. Most problems may be easier than what you'll see in an interview (from what I've read)
-- [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
+- [ ] [Programming Interviews Exposed: Coding Your Way Through the Interview, 4th Edition](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview/dp/111941847X/)
+    - [ ] Answers in C++ and Java
+    - [ ] This is a good warm-up for Cracking the Coding Interview
+    - [ ] Not too difficult. Most problems may be easier than what you'll see in an interview (from what I've read)
+- [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
     - answers in Java
 
 ### If you have tons of extra time:
 
 Choose one:
 
-- [Elements of Programming Interviews (C++ version)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
-- [Elements of Programming Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
-- [Elements of Programming Interviews (Java version)](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
+- [ ] [Elements of Programming Interviews (C++ version)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
+- [ ] [Elements of Programming Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
+- [ ] [Elements of Programming Interviews (Java version)](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
         - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)
 
 ## Don't Make My Mistakes
@@ -421,7 +372,7 @@ This list grew over many months, and yes, it got out of hand.
 
 Here are some mistakes I made so you'll have a better experience. And you'll save months of time.
 
-### 1. You Won't Remember it All
+### 1. 记不住的 You Won't Remember it All 
 
 I watched hours of videos and took copious notes, and months later there was much I didn't remember. I spent 3 days going
 through my notes and making flashcards, so I could review. I didn't need all of that knowledge.
@@ -430,7 +381,7 @@ Please, read so you won't make my mistakes:
 
 [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/).
 
-### 2. Use Flashcards
+### 2. 思维导图 Use Flashcards 
 
 To solve the problem, I made a little flashcards site where I could add flashcards of 2 types: general and code.
 Each card has different formatting. I made a mobile-first website, so I could review on my phone or tablet, wherever I am.
@@ -460,7 +411,7 @@ My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (
 
 Some students have mentioned formatting issues with white space that can be fixed by doing the following: open deck, edit card, click cards, select the "styling" radio button, add the member "white-space: pre;" to the card class.
 
-### 3. Do Coding Interview Questions While You're Learning
+### 3. 多做算法题 Do Coding Interview Questions While You're Learning 
 
 THIS IS VERY IMPORTANT.
 
@@ -481,10 +432,9 @@ You're not being hired for knowledge, but how you apply the knowledge.
 
 There are many resources for this, listed below. Keep going.
 
-### 4. Focus
+### 4. 专注 Focus 
 
-There are a lot of distractions that can take up valuable time. Focus and concentration are hard. Turn on some music
-without lyrics and you'll be able to focus pretty well.
+***There are a lot of distractions that can take up valuable time. Focus and concentration are hard***. Turn on some music without lyrics and you'll be able to focus pretty well.
 
 ## What you won't see covered
 
@@ -541,27 +491,27 @@ Gets messy quick. **I use a pencil and eraser.**
 Don't forget your key coding interview books [here](#interview-prep-books).
 
 Solving Problems:
-- [How to Find a Solution](https://www.topcoder.com/community/competitive-programming/tutorials/how-to-find-a-solution/)
-- [How to Dissect a Topcoder Problem Statement](https://www.topcoder.com/community/competitive-programming/tutorials/how-to-dissect-a-topcoder-problem-statement/)
+- [ ] [How to Find a Solution](https://www.topcoder.com/community/competitive-programming/tutorials/how-to-find-a-solution/)
+- [ ] [How to Dissect a Topcoder Problem Statement](https://www.topcoder.com/community/competitive-programming/tutorials/how-to-dissect-a-topcoder-problem-statement/)
 
 Coding Interview Question Videos:
-- [IDeserve (88 videos)](https://www.youtube.com/playlist?list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI)
-- [Tushar Roy (5 playlists)](https://www.youtube.com/user/tusharroy2525/playlists?shelf_id=2&view=50&sort=dd)
+- [ ] [IDeserve (88 videos)](https://www.youtube.com/playlist?list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI)
+- [ ] [Tushar Roy (5 playlists)](https://www.youtube.com/user/tusharroy2525/playlists?shelf_id=2&view=50&sort=dd)
     - Super for walkthroughs of problem solutions
-- [Nick White - LeetCode Solutions (187 Videos)](https://www.youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-)
+- [ ] [Nick White - LeetCode Solutions (187 Videos)](https://www.youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-)
     - Good explanations of solution and the code
     - You can watch several in a short time
-- [FisherCoder - LeetCode Solutions](https://youtube.com/FisherCoder)
+- [ ] [FisherCoder - LeetCode Solutions](https://youtube.com/FisherCoder)
 
 Challenge sites:
-- [LeetCode](https://leetcode.com/)
+- [ ] [LeetCode](https://leetcode.com/)
     - My favorite coding problem site. It's worth the subscription money for the 1-2 months you'll likely be preparing.
     - See Nick White and FisherCoder Videos above for code walk-throughs.
-- [HackerRank](https://www.hackerrank.com/)
-- [TopCoder](https://www.topcoder.com/)
-- [Geeks for Geeks](https://practice.geeksforgeeks.org/explore/?page=1)
-- [InterviewBit](https://www.interviewbit.com/)
-- [Project Euler](https://projecteuler.net/)
+- [ ] [HackerRank](https://www.hackerrank.com/)
+- [ ] [TopCoder](https://www.topcoder.com/)
+- [ ] [Geeks for Geeks](https://practice.geeksforgeeks.org/explore/?page=1)
+- [ ] [InterviewBit](https://www.interviewbit.com/)
+- [ ] [Project Euler](https://projecteuler.net/)
 
 ## Let's Get Started
 
@@ -1293,7 +1243,7 @@ You're never really done.
 
     *****************************************************************************************************
     *****************************************************************************************************
-
+    
     Everything below this point is optional. It is NOT needed for an entry-level interview.
     However, by studying these, you'll get greater exposure to more CS concepts, and will be better prepared for
     any software engineering job. You'll be a much more well-rounded software engineer.
