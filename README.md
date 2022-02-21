@@ -1,7 +1,24 @@
 # Coding Interview University
 
-## 巴洛克音乐
-https://www.youtube.com/watch?v=MuxB2zACza0&list=PLOVFy8w4WTq9LmY2l1fRZzmMj5bJ5osTn&index=4
+## 我已经工作了, 没时间追逐梦想
+
+> - John Washam 每天**上班8小时**，**自学8小时**，进入 amazon
+> - **[儿子立志考东大，50岁陪读老妈跟着学，结果妈考上了儿子没有_妈妈 (sohu.com)](https://www.sohu.com/a/404232054_120417488)** 
+>   - 老妈更狠，**每天复习15个小时，还要煮饭照顾一家人的吃喝。**
+> - [《罪恶王冠》的人物原案，本是一位半路出家的机械工人 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/29927603)
+>   - Redjuice 每天机械厂下班后，**每天6小时创作作品**。
+> - 轮子哥 **10 年如 1 日地写轮子**
+>   - 轮子哥除了**每天上班8小时**以外，还**纯粹花6小时创作代码** (不包括自学和上班)。
+
+巴洛克音乐 https://www.youtube.com/watch?v=MuxB2zACza0&list=PLOVFy8w4WTq9LmY2l1fRZzmMj5bJ5osTn&index=4
+
+所以你还敢说自学没时间自学吗？
+
+## If not now, when ? If not me, who ? 
+
+虽然看起来很自大。但这就是阿里精神。
+
+敢于挑战，舍我其谁。肯定自己的每一个小成就。
 
 ## Leetcode 难题
 
