@@ -1,5 +1,8 @@
 # Coding Interview University
 
+## 有价值的项目
+- Rust 远程桌面 https://github.com/rustdesk/rustdesk
+
 ## John Washam的 SDE 路线
 
 这是个 Todo-list ，做完一个可以打狗狗。 
